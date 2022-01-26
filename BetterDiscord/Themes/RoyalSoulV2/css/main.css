@@ -4,7 +4,7 @@
 @import url('/modules/alerts.css');
 @import url('/modules/chat.css');
 @import url('source.css');
-/* @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css"); */
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
 
 
 :root {
