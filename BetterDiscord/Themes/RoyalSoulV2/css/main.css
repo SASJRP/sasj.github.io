@@ -1,24 +1,7 @@
-
-
-/* Status Around PFP */
-@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
-
 @import url('/modules/embed.css');
 @import url('/modules/settings-module.css');
 @import url('/modules/user-icons.css');
 @import url('/modules/alerts.css');
+@import url('/modules/radialstatus.css');
 @import url('source.css');
-
-/* Unread Messages */
-.mentioned-Tre-dv {
-    background-color: #105ebd2c;
-}
-
-.text-2GsXbW {
-    color: cyan;
-}
-
-.unread-2wipsx {
-    border: 1px solid cyan;
-}
 
