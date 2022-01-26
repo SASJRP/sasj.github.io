@@ -41,5 +41,4 @@
 
     --rs-phone-visible: block;
     /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
-    --chat-color: #000;
 }
