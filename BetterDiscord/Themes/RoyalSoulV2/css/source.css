@@ -1550,14 +1550,14 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
   border-radius: var(--card-radius-big) 0 0 !important; }
   .sidebar-1tnWFu,
   .sidebar-1tnWFu .container-1NXEtd {
-    background-color: var(--main-color); }
+    background-color: #000; }
   .sidebar-1tnWFu .container-1NXEtd .content-2a4AW9 {
     margin-bottom: 11px; }
   .sidebar-1tnWFu .container-q97qHp {
     font-size: 14px;
     text-transform: none; }
   .sidebar-1tnWFu .container-1-ERn5:not(.hasBanner-2IrYih) .header-3OsQeK, .sidebar-1tnWFu .container-1-ERn5:not(.hasBanner-2IrYih) .header-3OsQeK:hover {
-    background-color: var(--main-color); }
+    background-color: #000; }
 
 .channelNotice-K4UfZY {
   margin: 0;
