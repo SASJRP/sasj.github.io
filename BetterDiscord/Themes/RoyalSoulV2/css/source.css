@@ -55,7 +55,7 @@
 
 .theme-dark {
   --main-color: #000;
-  --main-alt: #0f1012;
+  --main-alt: #000;
   --server-color: var(--main-alt);
   --status-picker-color: #2c2d31;
   --sidebar-panel-color: #212226;
