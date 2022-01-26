@@ -5,8 +5,6 @@
 @import url('/modules/chat.css');
 @import url('source.css');
 
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
-
 :root {
 	--settingsmodalbackground: 	transparent;			/* default:	transparent		(lowest bg color of changed windows, change it in case another theme turns them transparent)	*/
 	--settingsmodalwidth: 		960px;					/* default:	960px			(width of the settings modal, px/vw)															*/
