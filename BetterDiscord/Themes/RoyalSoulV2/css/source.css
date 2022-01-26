@@ -617,7 +617,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
     background-color: inherit;
     pointer-events: none; }
   .wrapper-1_HaEi .scroller-3X7KbA {
-    background-color: transparent; }
+    background-color: var(--chat-color); }
   .wrapper-1_HaEi .tree-3agP2X:focus {
     outline: none; }
 
