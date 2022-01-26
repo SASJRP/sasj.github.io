@@ -53,7 +53,7 @@
   --code-font: Consolas,Andale Mono WT,Andale Mono,Lucida Console,Lucida Sans Typewriter,DejaVu Sans Mono,Bitstream Vera Sans Mono,Liberation Mono,Nimbus Mono L,Monaco,Courier New,Courier,monospace; }
 
 .theme-dark {
-  --main-color: #000;
+  --main-color: #16171a;
   --main-alt: #0f1012;
   --server-color: var(--main-alt);
   --status-picker-color: #2c2d31;
