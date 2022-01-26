@@ -108,7 +108,7 @@
   --menu-item-hover: rgba(255, 255, 255, 0.075);
   --menu-item-select: rgba(255, 255, 255, 0.1);
   --menu-item-select-accent: hsla(var(--accent-hsl), 0.25);
-  --menu-item-text-color: #aaa;
+  --menu-item-text-color: #00ffffc4;
   --card-color: transparent;
   --card-color-hover: #292b2f;
   --card-color-alt: #2a2c30;
