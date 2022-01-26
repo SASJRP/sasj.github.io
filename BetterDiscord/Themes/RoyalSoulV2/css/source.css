@@ -2,7 +2,7 @@
   --accent-color: #333;
   --accent-hover: #00ffffab;
   --accent-rgb: 16, 95, 189;
-  --accent-text-color: rgba(255, 255, 255, 0.747);
+  --accent-text-color: #00ffffc4;
   /*	-	*/
   --container-color: #282828;
   --chat-color: #000;
@@ -22,7 +22,7 @@
   --popout-radius: 7px;
   --popout-radius-small: 3px;
   /*	-	*/
-  --input-bg: #e0e0e0;
+  --input-bg: #00ffffc4;
   --input-text-color: #00ffffc4;
   --input-placeholder-color: #00ffffc4;
   --title-bar: #000000;
@@ -64,7 +64,7 @@
   --xbox-color: #107c10;
   --supporter-color: hsl(var(--accent-hsl));
   --tooltip-color: rgba(97, 97, 97, 0.9);
-  --tooltip-text-color: #ddd;
+  --tooltip-text-color: #00ffffc4;
   --tooltip-font-size: 12px;
   --tooltip-padding: 8px;
   --tooltip-radius: 8px;
@@ -103,7 +103,7 @@
   --input-color: rgba(255, 255, 255, 0.075);
   --input-border-color: #444;
   --input-padding: 0 8px;
-  --tab-border-color: #fff;
+  --tab-border-color: #00ffffc4;
   --interactive-muted: #676767;
   --menu-item-hover: rgba(255, 255, 255, 0.075);
   --menu-item-select: rgba(255, 255, 255, 0.1);
@@ -114,9 +114,9 @@
   --card-color-alt: #2a2c30;
   --card-color-alt-hover: #35383d;
   --card-border-color: #444;
-  --card-header-text-color: #dcddde;
+  --card-header-text-color: #00ffffc4;
   --button-link-color: 255, 255, 255;
-  --button-link-text-color: #fff;
+  --button-link-text-color: #00ffffc4;
   --button-border-color: #444;
   --slider-color: #4f545c;
   --switch-knob-color: 0, 0%, 47%;
@@ -132,22 +132,22 @@
   --main-color: #f9f9f9;
   --main-alt: #eee;
   --server-color: var(--main-alt);
-  --status-picker-color: #dee0e0;
-  --sidebar-panel-color: #ebeced;
-  --chat-color: #fff;
-  --message-color: #edeff0;
-  --message-color-hover: #e1e2e3;
-  --message-color-alt: #e8e8e8;
+  --status-picker-color: #00ffffc4;
+  --sidebar-panel-color: #00ffffc4;
+  --chat-color: #00ffffc4;
+  --message-color: #00ffffc4;
+  --message-color-hover: #00ffffc4;
+  --message-color-alt: #00ffffc4;
   --attachment-color: rgba(0, 0, 0, 0.1);
-  --main-textarea-color: #fff;
-  --main-textarea-color-alt: #ccc;
-  --main-textarea-border: #dadce0;
-  --typing-color: rgba(255, 255, 255, 0.8);
-  --popout-color: #fff;
+  --main-textarea-color: #00ffffc4;
+  --main-textarea-color-alt: #00ffffc4;
+  --main-textarea-border: #00ffffc4;
+  --typing-color: #00ffffc4;
+  --popout-color: #00ffffc4;
   --popout-color-alt: #e5e5e5;
-  --popout-header-border: #ccc;
-  --separator-color: #ccc;
-  --input-color: #d2d4d4;
+  --popout-header-border: #00ffffc4;
+  --separator-color: #00ffffc4;
+  --input-color: #00ffffc4;
   --input-border-color: #aaa;
   --tab-border-color: #777;
   --interactive-muted: #999;
@@ -724,7 +724,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
   margin: 0 2px 0 -2px;
   padding: 0px 8px 0px 0;
   border-radius: 0 11px 11px 0;
-  color: #fff;
+  color: #00ffffc4;
 }
 
 .search-1FM8Qc .searchBar-zdmu7v .icon-1nNws_ {
@@ -1031,14 +1031,14 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
   --card-color-alt: #2a2c30;
   --card-color-alt-hover: #35383d;
   --card-border-color: #444;
-  --card-header-text-color: #dcddde;
+  --card-header-text-color: #00ffffc4;
   --button-link-color: 255, 255, 255;
-  --button-link-text-color: #fff;
+  --button-link-text-color: #00ffffc4;
   --md-ripple-color: 0, 100%, 100%;
-  --header-primary: #fff;
-  --header-secondary: #b9bbbe;
-  --text-normal: #dcddde;
-  --interactive-normal: #b9bbbe;
+  --header-primary: #00ffffc4;
+  --header-secondary: #00ffffc4;
+  --text-normal: #00ffffc4;
+  --interactive-normal: #00ffffc4;
   --scrollbar-color: 255, 255, 255;
 }
 
@@ -1192,7 +1192,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
 }
 
 .theme-light .peopleColumn-1wMU14 .searchBar-2aylmZ .inner-2pOSmK {
-  --input-color: #fff;
+  --input-color: #00ffffc4;
 }
 
 .peopleColumn-1wMU14 .searchBar-2aylmZ {
@@ -1809,7 +1809,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
 
 .heroContent-1Wj0uW .button-f2h6uQ {
   --accent-button-action: #000;
-  background-color: #fff !important;
+  background-color: #00ffffc4 !important;
 }
 
 .progressBarTrack-xPgjRk {
@@ -3000,7 +3000,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
 .attachment-16cAbS,
 .avatar-l9Txm5,
 .blob-1uHjdp {
-  background-color: #fff;
+  background-color: #00ffffc4;
 }
 
 /* CHAT AREA -> MESSAGES */
@@ -7310,7 +7310,7 @@ body:active .menu-1QACrS#status-picker:not(:active) {
 /* SERVER SETTINGS -> STICKERS */
 .upsellContainer-3UlEOE .colorWhite-rEQuAQ {
   --accent-button-action: #000;
-  background-color: #fff !important;
+  background-color: #00ffffc4 !important;
 }
 
 .tierHeader-3q9jIw {
@@ -7359,7 +7359,7 @@ body:active .menu-1QACrS#status-picker:not(:active) {
 }
 
 .preview-x-26h- .previewLight-IOzFhi {
-  background-color: #fff;
+  background-color: #00ffffc4;
 }
 
 .fileUpload-MFkgW2 {
@@ -11257,7 +11257,7 @@ div[role="radiogroup"] .tooltipWrapper-Z59cgW:last-child {
 
 .lookFilled-yCfaCM.colorWhite-1H92hK {
   --button-background: rgba(255, 255, 255, 0.15);
-  --button-text-color: #fff;
+  --button-text-color: #00ffffc4;
   box-shadow: none !important;
 }
 
@@ -11313,7 +11313,7 @@ div[role="radiogroup"] .tooltipWrapper-Z59cgW:last-child {
 
 .lookInverted-2mDUMi.colorBrand-I6CyqQ {
   --button-background: rgba(255, 255, 255, 0.15);
-  --button-text-color: #fff;
+  --button-text-color: #00ffffc4;
   --button-shadow: none !important;
 }
 
@@ -11352,7 +11352,7 @@ div[role="radiogroup"] .tooltipWrapper-Z59cgW:last-child {
 
 .colorable-3rVGna {
   --button-background: var(--menu-item-hover);
-  --button-text-color: #fff;
+  --button-text-color: #00ffffc4;
   background-color: var(--button-background) !important;
   color: var(--button-text-color) !important;
 }
@@ -11385,7 +11385,7 @@ div[role="radiogroup"] .tooltipWrapper-Z59cgW:last-child {
 }
 
 .colorable-3rVGna.white-11auuQ {
-  --button-background: #fff;
+  --button-background: #00ffffc4;
   --button-text-color: #060607;
 }
 
@@ -11606,7 +11606,7 @@ path[d="M22 12L12.101 2.10101L10.686 3.51401L12.101 4.92901L7.15096 9.87801V9.88
   box-shadow: none;
   font-size: 1em;
   font-weight: 400;
-  color: #fff;
+  color: #00ffffc4;
 }
 
 /*
