@@ -8,3 +8,16 @@
 @import url('/modules/user-icons.css');
 @import url('source.css');
 
+/* Unread Messages */
+.mentioned-Tre-dv {
+    background-color: #105ebd2c;
+}
+
+.text-2GsXbW {
+    color: cyan;
+}
+
+.unread-2wipsx {
+    border: 1px solid cyan;
+}
+
